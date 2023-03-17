@@ -1,0 +1,2 @@
+readgroup	median_insert_size	insert_size_median_absolute_deviation	coverage
+NA12878	384.500285	88.752272	24.47

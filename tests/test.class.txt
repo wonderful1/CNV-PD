@@ -1,0 +1,4 @@
+/data/lush-dev/wangtaifu/learning/CNV_PD/Script_v2/example_v2/Pileup_Image/0.jpg	0
+/data/lush-dev/wangtaifu/learning/CNV_PD/Script_v2/example_v2/Pileup_Image/1.jpg	1
+/data/lush-dev/wangtaifu/learning/CNV_PD/Script_v2/example_v2/Pileup_Image/2.jpg	1
+/data/lush-dev/wangtaifu/learning/CNV_PD/Script_v2/example_v2/Pileup_Image/3.jpg	0
